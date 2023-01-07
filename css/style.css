@@ -1,0 +1,50 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 20px;
+  color: #00277E;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  display: inline-block;
+  font-size: 14px;
+  padding-left: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: #00277E;
+  font-weight: bold;
+}
+
+img {
+  width: 50%;
+  display: block;
+  margin: 0 0 0 auto;
+}
+
+.text-box {
+  margin-top: -200px;
+}
+
+h2 {
+  color: black;
+  font-size: 60px;
+  font-family: 'Noto Sans JP', sans-serif;
+  padding-bottom: 5px;
+}
+
+.box-blue {
+  width: 70%;
+  /* height: 200px; */
+  height: 30vh;
+  background: #00277E;
+}
